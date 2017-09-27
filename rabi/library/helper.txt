@@ -1,0 +1,22 @@
+# Library Tools
+
+
+Description:
+
+  Javascript library. Build with rollup(gh:rollup). Deploy on
+  github. 
+
+
+Examples:
+
+  1. create a javascript library.
+
+     rabi lib new foo
+
+  2. build library with rollup(default).
+
+     rabi lib build
+
+  3. publish library.   
+
+     rabi lib publish

@@ -1,0 +1,21 @@
+# Library Generator
+
+
+Description:
+
+  Create a javascript library. 
+
+
+Examples:
+
+  1. create a library basic.
+
+     rabi new lib foo
+
+  2. create library with path.
+
+     rabi new lib foo ../
+
+  3. create a library for React components.   
+
+     rabi new lib foo --react
